@@ -1,0 +1,12 @@
+#summary Current TODO List
+#labels todo
+
+= TODO List =
+  * Chart and background fill
+  * Axis labels
+  * Grid lines
+  * Markers
+  * Line Styles
+  * Fill Area
+  * Handle Missing Values (?)
+  * Venn Diagram and Scatter Charts
