@@ -8,5 +8,6 @@
   * Markers
   * Line Styles
   * Fill Area
+  * RDoc documentation
   * Handle Missing Values (?)
   * Venn Diagram and Scatter Charts
