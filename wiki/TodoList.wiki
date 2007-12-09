@@ -2,7 +2,7 @@
 #labels todo
 
 = TODO List =
-  * Chart and background fill
+  * ~~Chart and background fill~~ DONE
   * Axis labels
   * Grid lines
   * Markers
