@@ -10,4 +10,5 @@
   * Fill Area
   * RDoc documentation
   * Handle Missing Values (?)
-  * Venn Diagram and Scatter Charts
+  * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
+  * Scatter Charts
