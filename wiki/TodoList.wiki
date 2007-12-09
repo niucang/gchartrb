@@ -2,13 +2,18 @@
 #labels todo
 
 = TODO List =
+
+=== Initial Release ===
   * ~~Chart and background fill~~ DONE
   * Axis labels
   * Grid lines
-  * Markers
-  * Line Styles
-  * Fill Area
-  * RDoc documentation
-  * Handle Missing Values (?)
-  * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
   * Scatter Charts
+  * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
+  * Horizontal and Vertical Markers
+  * Line Styles
+  * RDoc documentation
+
+=== Subsequent Releases ===
+  * Shape Markers
+  * Fill Area
+  * Handle Missing Values (?)
