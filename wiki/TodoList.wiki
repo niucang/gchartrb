@@ -8,12 +8,12 @@
   * ~~Axis labels~~ DONE
   * ~~Grid lines~~
   * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
-  * Horizontal and Vertical Markers
-  * Line Styles
   * RDoc documentation
 
 === Subsequent Releases ===
   * Scatter Charts
+  * Horizontal and Vertical Markers
+  * Line Styles
   * Shape Markers
   * Fill Area
   * Handle Missing Values (?)
