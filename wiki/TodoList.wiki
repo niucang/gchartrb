@@ -5,7 +5,7 @@
 
 === Initial Release ===
   * ~~Chart and background fill~~ DONE
-  * Axis labels
+  * ~~Axis labels~~
   * Grid lines
   * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
   * Horizontal and Vertical Markers
