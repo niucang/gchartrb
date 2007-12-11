@@ -1,0 +1,23 @@
+TODO List (Features)
+====================
+* Axis labels
+* Grid lines
+* Markers
+* Line Styles
+* Fill Area
+* Handle Missing Values (?)
+* Other charts (Scatter)
+* Download image
+
+TODO List (Other)
+=================
+* Create an alternate git repository
+
+Code Level Improvements
+=======================
+* Write tests that render different kinds of graphs
+* Remove the need for core_ext.rb file (stupid idea I was trying out earlier)
+* Use splats instead of attribute accessors to provide a neater API (?)
+* Improved error handling and reporting for things
+  * Number of labels and number of postions in axis must be the same
+  * Axis styles need to be specified in a certain way
