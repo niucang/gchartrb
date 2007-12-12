@@ -11,7 +11,7 @@
   * ~~RDoc documentation~~ DONE
 
 === Subsequent Releases ===
-  * Scatter Charts
+  * ~~Scatter Charts~~
   * Horizontal and Vertical Markers
   * Line Styles
   * Shape Markers
