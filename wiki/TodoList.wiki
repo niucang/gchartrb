@@ -8,7 +8,7 @@
   * ~~Axis labels~~ DONE
   * ~~Grid lines~~
   * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
-  * RDoc documentation
+  * ~~RDoc documentation~~ DONE
 
 === Subsequent Releases ===
   * Scatter Charts
