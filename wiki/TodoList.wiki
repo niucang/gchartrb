@@ -12,6 +12,7 @@
 
 === Subsequent Releases ===
   * ~~Scatter Charts~~
+  * Option to draw Sparklines by extending the axis options
   * Title Color
   * Horizontal and Vertical Markers
   * Line Styles
