@@ -12,6 +12,7 @@
 
 === Subsequent Releases ===
   * ~~Scatter Charts~~
+  * Title Color
   * Horizontal and Vertical Markers
   * Line Styles
   * Shape Markers
