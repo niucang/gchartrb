@@ -12,9 +12,9 @@
 
 === Subsequent Releases ===
   * ~~Scatter Charts~~
-  * Option to draw Sparklines by extending the axis options
-  * Title Color
-  * Horizontal and Vertical Markers
+  * ~~Option to draw Sparklines by extending the axis options~~ Read [http://blog.deepak.jois.name/2007/12/plotting-sparklines-chart-using.html this blog entry]
+  * ~~Title Color~~ DONE in 0.5.2
+  * ~~Horizontal and Vertical Markers~~ DONE in 0.5.2
   * Line Styles
   * Shape Markers
   * Fill Area
