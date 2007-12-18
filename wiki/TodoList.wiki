@@ -16,7 +16,7 @@
   * ~~Title Color~~ DONE in 0.5.2
   * ~~Horizontal and Vertical Markers~~ DONE in 0.5.2
   * Line Styles
-  * Shape Markers
+  * ~~Shape Markers~~ DONE in 0.5.3 by Aseem Tandon
   * Fill Area
   * Handle Missing Values (?)
   * Download image
