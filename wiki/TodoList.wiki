@@ -3,22 +3,7 @@
 
 = TODO List =
 
-=== Initial Release ===
-  * ~~Chart and background fill~~ DONE
-  * ~~Axis labels~~ DONE
-  * ~~Grid lines~~
-  * ~~Venn Diagram~~ - DONE with help from Will Fitzgerald 
-  * ~~RDoc documentation~~ DONE
-
-=== Subsequent Releases ===
-  * ~~Scatter Charts~~
-  * ~~Option to draw Sparklines by extending the axis options~~ Read [http://blog.deepak.jois.name/2007/12/plotting-sparklines-chart-using.html this blog entry]
-  * ~~Title Color~~ DONE in 0.5.2
-  * ~~Horizontal and Vertical Markers~~ DONE in 0.5.2
-  * ~~Customisable width for bar charts.~~ DONE in 0.6
-  * ~~Line Styles~~ DONE in 0.6 via patch from diomedes
-  * ~~Shape Markers~~ DONE in 0.5.3 by Aseem Tandon
-  * Fill Area
+  * Implement new features introduced in Mar 2008*
   * Handle Missing Values (?)
   * Download image
   * Friendly color values
